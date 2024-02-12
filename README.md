@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 # Welcome to My GitHub Profile 👋
 
 ## About Me
 
-Hey there! I'm [Mirzohidxon], a passionate Django DRF backend developer with a knack for crafting robust and scalable solutions. With [7] month of experience in the field, I've had the pleasure of diving deep into the world of web development, honing my skills, and contributing to various exciting projects.
+Hey there! I'm Mirzohidxon, a passionate Django DRF backend developer with a knack for crafting robust and scalable solutions. With 7 month of experience in the field, I've had the pleasure of diving deep into the world of web development, honing my skills, and contributing to various exciting projects.
 
 ## What I Do
 
