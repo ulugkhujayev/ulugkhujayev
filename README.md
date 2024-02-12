@@ -1,9 +1,11 @@
 <h2 align="center">Hey 👋, glad to have you here!, I'm Mirzohidkhon </h2>
 
 ###
+###
 
-<h5 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h5>
+<h4 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h4>
 
+###
 ###
 
 
