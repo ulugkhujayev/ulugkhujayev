@@ -3,7 +3,7 @@
 ###
 ###
 
-<h4 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h4>
+<h4 align="center">Technology and green nature loving software developer from Uzbekistan/Namangan</h4>
 
 ###
 ###
