@@ -2,9 +2,11 @@
 
 ###
 
-<h5 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h5>
+<h4 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h4>
+
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
