@@ -1,4 +1,4 @@
-<h2 align="center">Hello ladies and gentlemen 👋, I am Mirzohidkhon </h2>
+<h2 align="center">Hey 👋, glad to have you here!, I'm Mirzohidkhon </h2>
 
 ###
 
@@ -58,7 +58,10 @@
   <a href="https://www.linkedin.com/in/ulugkhujayev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.ulugkhujayevmirzohidxon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+
 </div>
 
 ###
