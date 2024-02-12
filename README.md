@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ulugkhujayev&locale=en&mode=daily&theme=Prussian&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ulugkhujayev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ulugkhujayev&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulugkhujayev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
