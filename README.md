@@ -1,32 +1,68 @@
-# Hi there 👋
+<h2 align="center">Hello ladies and gentlemen 👋, I am Mirzohidkhon </h2>
 
-# Welcome to My GitHub Profile 👋
+###
 
-## About Me
+<h5 align="center">Technology and green nature loving developer from Uzbekistan/Namangan</h5>
 
-Hey there! I'm Mirzohidxon, a passionate Django DRF backend developer with a knack for crafting robust and scalable solutions. With 7 month of experience in the field, I've had the pleasure of diving deep into the world of web development, honing my skills, and contributing to various exciting projects.
+###
 
-## What I Do
 
-- **Django Ninja**: Crafting elegant and efficient solutions using Django is my forte. From designing RESTful APIs to handling complex backend logic, I thrive on challenges.
-- **DRF Maestro**: With Django Rest Framework (DRF) as my trusty companion, I transform ideas into fully functional APIs that power dynamic web applications.
-- **Data Whisperer**: I have a knack for working with data, whether it's structuring databases, optimizing queries, or ensuring data integrity, I ensure that data flows smoothly through the system.
 
-## My Tech Toolbox
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
 
-- **Languages**: Python, PostgreSQL
-- **Frameworks & Libraries**: Django, Django Rest Framework (DRF), Celery
-- **Databases**: PostgreSQL, MySQL, Redis
-- **Tools & Technologies**: Git, Docker, Django-cachalot,Grafana, Loki
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
 
-## What Sets Me Apart
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/djangorest/djangorest-original.svg" height="30" alt="Django REST logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/insomnia/insomnia-original.svg" height="30" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" height="30" alt="JSON logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oauth/oauth-original.svg" height="30" alt="OAUTH logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swagger/swagger-original.svg" height="30" alt="swagger logo"  />
+  <img width="12" />
+</div>
 
-- **Passion for Clean Code**: I believe in the power of clean, readable, and maintainable code. My code not only works flawlessly but is also a joy to work with for fellow developers.
-- **Problem Solver**: I thrive on solving complex problems and enjoy turning challenges into opportunities for growth.
-- **Team Player**: I understand the importance of teamwork and collaboration. I'm always ready to lend a helping hand and share my expertise with my teammates.
+###
 
-## Let's Connect
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ulugkhujayev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulugkhujayev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-If you're looking for a dedicated Django DRF developer to join your team or collaborate on a project, feel free to reach out. You can connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/ulugkhujayev/) or [![Telegram](https://img.shields.io/badge/Telegram-Chat-informational?style=flat-square&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/prostoy_coder). Let's build something awesome together!
+###
 
-Happy coding! 🚀
+<div align="center">
+  <a href="https://t.me/prostoy_coder" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ulugkhujayev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
+
+###
